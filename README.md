@@ -12,7 +12,7 @@ To train the model for image generation run, -> py 1. Data Generation/image_gene
 This folder is including the codes for Inference.
 
 
-# 3. Mapper#
+# 3. Mapper #
 This folder includes the codes for the proposed approach.
 
 
