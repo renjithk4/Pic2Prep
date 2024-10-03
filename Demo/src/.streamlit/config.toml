@@ -1,0 +1,3 @@
+[theme]
+# Set to true if you want the "Deploy" button hidden
+hide_streamlit_deploy_button = true
