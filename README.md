@@ -8,9 +8,11 @@ This repository contains curated dataset, implementation of methods experimented
 # 1. Data Generation #
 For image generation run, -> py 1. Data Generation/image_generation_recipe_.py 
 The datasets are generated using Stable Diffusion for ingredients and instruction generation.
-
+<br>
 The generated image dataset available at: https://drive.google.com/drive/folders/1BvQHLX4oP6kGucFkLPMINlTApuComKyx
+<br>
 Dataset used to train BLIP model for Ingredient Generation : https://drive.google.com/drive/folders/12LsSxNyps3Y1V4Ijo4bUbiZo_4ABVwfI?usp=drive_link
+<br>
 Dataset used to train BLIP model for Instruction Generation :https://drive.google.com/drive/folders/13s6zZWb7PVNmUjrAvNzAzrFzz2nNz2Ft?usp=drive_link
 
 # 2. Inference #
