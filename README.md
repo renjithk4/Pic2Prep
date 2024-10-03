@@ -1,4 +1,8 @@
 # Repository for "Pic2Prep: A multimodal conversational  agent for cooking assistance" Paper
+Pic2Prep is a multimodal AI system that generates detailed cooking instructions, ingredient lists, and cooking actions from food images and text inputs, offering an interactive and personalized cooking experience
+
+![Pic2Prep User Interface](https://github.com/ChathurangiShyalika/Manufacturing_Copilot/blob/master/SmartPilot.png "Pic2Prep User Interface")
+
 This repository contains curated dataset, implementation of methods experimented and introduced in the paper titled "Pic2Prep: A multimodal conversational  agent for cooking assistance".
 
 # 1. Data Generation #
@@ -12,6 +16,7 @@ Dataset used to train BLIP model for Instruction Generation :https://drive.googl
 # 2. Inference #
 This folder is including the codes for Inference.
 The fine-tuned BLIP models for ingredient and instruction generation(''model_blip_instructions'') and ingredient generation(''model_blip_ingredients'') are available here: https://drive.google.com/drive/folders/1QhzWJjiqty8VdWuO1_NypniFmtwsqHoN 
+
 
 # 3. Mapper #
 This folder includes the codes for the custom ingredient-to-action mapper, trained using  Mistral model. It is fine-tuned such that ingredients are mapped to its corresponding cooking actions. 
