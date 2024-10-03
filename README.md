@@ -13,8 +13,14 @@ This folder is including the codes for Inference.
 
 
 # 3. Mapper #
-This folder includes the codes for the proposed approach.
+This folder includes the codes for the custom ingredient-to-action mapper, trained using  Mistral model. It is fine-tuned such that ingredients are mapped to its corresponding cooking actions. 
 
 
 # 4. Demo #
 This folder includes the codes for the user interface.
+
+
+# 5. Acknowledgements #
+We appreciate the following github repos for their valuable code bases:
+
+https://github.com/revathyramanan/cooking-action-generation
