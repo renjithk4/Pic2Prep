@@ -18,8 +18,8 @@ This folder includes the codes for the custom ingredient-to-action mapper, train
 This fine-tuned model available at: https://drive.google.com/drive/folders/17LIhanMEzivm78BvZy2hUMVyK6GGNZlA
 
 
-# 4. Demo #
-This folder includes the codes for the user interface.
+# 4. Pic2Prep User Interface #
+This folder includes the codes for the user interface and steps to execute it.
 
 
 # 5. Acknowledgements #
