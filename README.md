@@ -21,6 +21,6 @@ This folder includes the codes for the user interface.
 
 
 # 5. Acknowledgements #
-We appreciate the following github repos for their valuable code bases:
+We appreciate the following GitHub repos for their valuable code bases:
 
 https://github.com/revathyramanan/cooking-action-generation
