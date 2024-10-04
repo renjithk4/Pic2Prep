@@ -33,3 +33,5 @@ This folder includes the codes for the user interface and steps to execute it.
 We appreciate the following GitHub repos for their valuable code bases:
 
 https://github.com/revathyramanan/cooking-action-generation
+
+https://github.com/CompVis/stable-diffusion
