@@ -1,6 +1,7 @@
 # Repository for "Pic2Prep: A multimodal conversational  agent for cooking assistance" Paper
 Pic2Prep is a multimodal AI system that generates detailed cooking instructions, ingredient lists, and cooking actions from food images and text inputs, offering an interactive and personalized cooking experience
-Demo Link: https://drive.google.com/file/d/1GCjUrcQTmvJOgzoLg9z1ex19yt_APV_J/view?usp=drive_link
+Demo Link: https://drive.google.com/file/d/1V0ev_8zfygh0pjWERhMLlj-2aU-YR01n/view?usp=drive_link
+<br>
 
 ![Pic2Prep User Interface](https://github.com/renjithk4/Pic2Prep/blob/main/image.png "Pic2Prep User Interface")
 
