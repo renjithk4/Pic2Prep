@@ -9,21 +9,19 @@ This repository contains curated dataset, implementation of methods experimented
 For image generation run, -> py 1. Data Generation/image_generation_recipe_.py 
 The datasets are generated using Stable Diffusion for ingredients and instruction generation.
 <br>
-The generated image dataset available at: https://drive.google.com/drive/folders/1BvQHLX4oP6kGucFkLPMINlTApuComKyx
+The generated image dataset available at: https://drive.google.com/drive/folders/1hSIuYzthg7idGKAQbc5WnC-OpdhVX8GH
 <br>
-Dataset used to train BLIP model for Ingredient Generation : https://drive.google.com/drive/folders/12LsSxNyps3Y1V4Ijo4bUbiZo_4ABVwfI?usp=drive_link
+Dataset used to train BLIP model for Ingredient Generation : https://drive.google.com/drive/folders/1XOcfV1jg6LoQ-XGuadVzC212X1Luy5Cy
 <br>
-Dataset used to train BLIP model for Instruction Generation :https://drive.google.com/drive/folders/13s6zZWb7PVNmUjrAvNzAzrFzz2nNz2Ft?usp=drive_link
+Dataset used to train BLIP model for Instruction Generation : https://drive.google.com/drive/folders/1Zl96GohDDvc_PZEn04kRavXqdjm25oKj
 
 # 2. Inference #
 This folder is including the codes for Inference.
-The fine-tuned BLIP models for ingredient and instruction generation(''model_blip_instructions'') and ingredient generation(''model_blip_ingredients'') are available here: https://drive.google.com/drive/folders/1QhzWJjiqty8VdWuO1_NypniFmtwsqHoN 
+The fine-tuned BLIP models for ingredient and instruction generation(''model_blip_instructions'') and ingredient generation(''model_blip_ingredients'') are available here: https://drive.google.com/drive/folders/12NbE6VkDeXBjNaIKi1nPDcbWjuxHzGSZ
 
 
 # 3. Mapper #
-This folder includes the codes for the custom ingredient-to-action mapper, trained using  Mistral model. It is fine-tuned such that ingredients are mapped to its corresponding cooking actions. 
-This fine-tuned model available at: https://drive.google.com/drive/folders/17LIhanMEzivm78BvZy2hUMVyK6GGNZlA
-
+Several other research works are under progress are that uses Mistral Mapper. The model will be open sourced up on acceptance of other papers as it is a novel component.
 
 # 4. Pic2Prep User Interface #
 This folder includes the codes for the user interface and steps to execute it.

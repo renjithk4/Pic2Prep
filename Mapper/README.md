@@ -1,0 +1,1 @@
+Several other research works are under progress are that uses Mistral Mapper. The model will be open sourced up on acceptance of other papers as it is a novel component.
